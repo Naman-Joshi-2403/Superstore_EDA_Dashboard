@@ -6,9 +6,9 @@ An interactive Exploratory Data Analysis dashboard built on the Kaggle Global Su
 
 ## 🔗 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-dummy-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://superstore-data-eda.streamlit.app/)
 
-👉 **[https://your-dummy-url.streamlit.app](https://your-dummy-url.streamlit.app)**
+👉 **[https://superstore-data-eda.streamlit.app/](https://superstore-data-eda.streamlit.app/)**
 
 ---
 
@@ -22,13 +22,12 @@ An interactive Exploratory Data Analysis dashboard built on the Kaggle Global Su
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/superstore-eda.git
+git clone https://github.com/Naman-Joshi-2403/Superstore_EDA_Dashboard.git
 cd superstore-eda
 
 # 2. Create and activate a virtual environment
 python -m venv env
-env\Scripts\activate        # Windows
-# source env/bin/activate   # Mac/Linux
+env\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -133,7 +132,7 @@ superstore-eda/
 
 ## 📦 Data Source
 
-[Kaggle — Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+ [Superstore Dataset]
 
 - 9,994 order lines
 - 4 years of data (2014–2017)
@@ -144,8 +143,7 @@ superstore-eda/
 ## 👤 Author
 
 **Naman**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Naman-Joshi-2403](https://github.com/Naman-Joshi-2403)
 
 ---
 
-*Built with Streamlit · Deployed on Streamlit Community Cloud*
