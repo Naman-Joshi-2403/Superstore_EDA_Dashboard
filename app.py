@@ -150,7 +150,7 @@ with tab5:
 with tab6:
     st.subheader("Correlation Matrix")
     st.dataframe(
-        correlation_table(df).style.background_gradient(cmap="RdBu_r", vmin=-1, vmax=1),
+        correlation_table(df),
         use_container_width=True,
     )
 
